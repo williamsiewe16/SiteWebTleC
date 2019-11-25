@@ -1,0 +1,867 @@
+
+header
+{
+	width:100%;
+ height:400px;
+ border: 2px solid silver; 
+border-radius:20px 20px 20px 20px;
+background-image:url(images/banniere.jpg);
+} 
+
+ul
+{
+
+	list-style-type:none;
+}
+
+.huitiemes
+{
+	position:absolute;
+	left:580px;
+	border:1px solid  white;
+	background-color:aqua;
+	display: inline-block;
+	border-radius: 20px;
+	color:white;
+	padding:10px;
+	width:140px;
+	text-align: center;
+}
+.quarts
+{
+	position: absolute;
+	left: 850px;
+	border:1px solid white;
+	background-color:aqua;
+	display: inline-block;
+	border-radius: 20px;
+	color:white;
+	padding:10px;
+	width:140px;
+	text-align: center;
+}
+.PG
+{
+	position:absolute;
+	left:310px;
+	border:1px solid  white;
+	background-color:aqua;
+	display: inline-block;
+	border-radius: 20px;
+	color:white;
+	padding:10px;
+	width:140px;
+	text-align: center;
+}
+.accueil
+{
+	position:absolute;
+	left:40px;
+	border:1px solid  white;
+	background-color:aqua;
+	display: inline-block;
+	border-radius: 20px;
+	color:white;
+	padding:10px;
+	width:140px;
+	text-align: center;
+}
+.questionnaire
+{
+	position:absolute;
+	left:1120px;
+	border:1px solid  white;
+	background-color:aqua;
+	display: inline-block;
+	border-radius: 20px;
+	color:white;
+	padding:10px;
+	width:140px;
+	text-align: center;
+}
+.calculatrice
+{
+	position:absolute;
+	right:40px;
+	border:1px solid  white;
+	background-color:aqua;
+	display: inline-block;
+	border-radius: 20px;
+	color:white;
+	padding:10px;
+	width:140px;
+	text-align: center;
+}
+
+.accueil:hover
+{
+	background-color: yellow;
+
+}
+.quarts:hover
+{
+background-color: yellow;
+}
+.huitiemes:hover
+{
+background-color: yellow;
+}
+.PG:hover
+{
+background-color: yellow;
+}
+.questionnaire:hover
+{
+background-color: yellow;
+}
+.calculatrice:hover
+{
+background-color: yellow;
+}
+a
+{
+	text-decoration: none;
+	color:red;
+
+}
+
+
+.cal{
+	background-image: url(images/fond_cal.jpg);
+}
+
+body
+{
+	font-family:"Comic Sans MS", verdana,serif;
+}
+.bod
+{
+	background: url(images/pelouse.jpg) repeat;
+}
+
+
+.menu 
+{
+	border:1px solid silver;
+	width:100%;
+	height:100px;
+	background-color:silver;
+}
+h1
+{
+	text-align:center;
+	font-weight: bold;
+	font-style:italic;
+	font-size:50px;
+
+}
+.barca
+{
+	position:absolute;
+	left:45%;
+}
+section
+{
+	height:1372px;
+	width:200px;
+	border:1px solid lime;
+	background-color:rgb(147,0,0);
+	float: left;
+	display:inline-block;
+}
+
+footer
+{
+	border:2px solid yellow;
+	width:100%;
+	height:200px;
+	background: url(images/pied.jpg);
+	display:inline-block;
+	padding-left:480px;
+	padding-top:20px;
+	color:silver;
+	font-size:1.2em;
+	font-style:italic; 
+	font-weight:bold;
+
+}
+
+
+.divaccueil
+{
+	display: inline-block;
+	height:1360px;
+	width:1350px;
+	
+}
+
+.contenu2
+{
+position:absolute;
+top:970px;
+padding: 70px;
+font-size:1.3em;
+text-align:justify;
+
+}
+.tirage
+{
+	position:absolute;
+	left:23%;
+	top:430px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divPG
+{
+	display: inline-block;
+	height:4665px;
+	width:1350px;
+	
+	
+}
+
+
+
+
+.barcaceltic
+{
+	position:absolute;
+	top:870px;
+	left:35%;
+	
+}
+
+.barcaVSceltic
+{
+
+	padding:70px 200px 0 200px;
+	font-size:1.3em;
+text-align:justify;
+}
+.gladbachbarca
+{
+	position:absolute;
+	top:250px;
+	left:25%;
+	
+}
+
+.mönchengladbachVSbarca
+{
+position: absolute;
+top: 1307px;
+padding:70px 200px 0 170px;
+	font-size:1.3em;
+text-align:justify;
+}
+
+.barcacity
+{
+	position:absolute;
+	top:290px;
+	left:25%;
+	
+}
+
+.barcaVScity
+{
+position: absolute;
+top: 2034px;
+	padding:70px 200px 0 170px;
+	font-size:1.3em;
+text-align:justify;
+}
+
+.citybarca
+{
+position:absolute;
+	top:270px;
+	left:25%;
+	
+}
+
+.cityVSbarca
+{
+position: absolute;
+top: 2865px;
+	padding:70px 200px 0 180px;
+	font-size:1.3em;
+text-align:justify;
+}
+
+.celticbarca
+{
+	position:absolute;
+	top:250px;
+	left:25%;
+	
+}
+
+.celticVSbarca
+{
+position: absolute;
+top:3638px ;
+	padding:70px 200px 0 170px;
+	font-size:1.3em;
+text-align:justify;
+}
+
+.barcagladbach
+{
+	position:absolute;
+	top:250px;
+	left:25%;
+	
+}
+
+.barcaVSmönchengladbach
+{
+position: absolute;
+top: 4365px;
+padding:70px 200px 0 200px;
+font-size:1.3em;
+text-align:justify;
+}	
+
+.sectionPG
+{
+height:4665px;
+	width:200px;
+	border:1px solid lime;
+	background-color:rgb(147,0,0);
+	float: left;
+	display:inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divhuitiemes
+{
+	display: inline-block;
+	height:4610px;
+	width:1350px;
+	
+}
+.sectionhuitiemes
+{
+height:4910px;
+	width:200px;
+}
+h2
+{
+	text-align: center;
+	font-style: italic;
+	font-size: 1.8em;
+	text-decoration: underline;
+}
+ .huitieme-aller
+ {
+	padding: 70px;
+	font-size:1.3em;
+text-align:justify;
+ }
+ .neymar
+ {
+position:absolute;
+top:1300px;
+left:35%;
+ }
+ .dimaria
+ {
+position:absolute;
+top:1730px;
+left:19%;
+ }
+ .messi
+ {
+ position:absolute;
+top:1730px;
+left:52%;
+ }
+ .retour
+ {
+ 	position:absolute;
+ 	top: 2100px;
+ 	padding: 70px;
+	font-size:1.3em;
+	text-align: justify;
+ }
+ 
+ .divd
+ {
+ 	word-wrap: break-word;
+ 	height:1772px;
+ 	width:1222px;
+ 	position:relative;
+ 	top:1200px;
+ 	padding:70px;
+ 	font-size:1.3em;
+}
+.messiR
+{
+position: absolute;
+top:850px;
+left:5%; 
+}
+.barcaR
+{
+position: absolute;
+top:850px;
+left:52%; 
+}
+.sergiR
+{
+position: absolute;
+top:1290px;
+left:5%; 
+}
+.mesneyR
+{
+position: absolute;
+top:1290px;
+left:52%; 
+}
+.diva1
+{
+	word-wrap: break-word;
+ 	height:860px;
+ 	width:1222px;
+ 	position:relative;
+ 	top:1300px;
+ 	padding:70px;
+ 	font-size:1.3em;
+ }
+ .video1
+ {
+ 	height:700px;
+ 	width:800px;
+
+ }
+ .BP
+ {
+ 	color:lime;
+ 	text-decoration:underline;
+ 	font-style:italic;
+ 	font size:1.1em; 
+ 	position:relative;
+ 	top:200px;
+ }
+ 
+.ul
+ {
+ 	list-style-type:none;
+ 	position:relative;
+ 	top:200px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sectionquarts
+{
+	height:4523px;
+	width:200px;
+}
+.divquarts
+{
+	height:4500px;
+	width:1557px;
+}
+.quart-aller
+{
+	padding: 70px;
+	font-size:1.3em;
+text-align:justify;
+position:absolute;
+left:209px;
+width:1222px;
+top:700px;
+
+}
+.dybala
+ {
+position:absolute;
+top:400px;
+left:35%;
+ }
+ .dybala-recap
+ {
+position:absolute;
+top:930px;
+left:10%;
+ }
+ .chiellini
+ {
+ position:absolute;
+top:930px;
+left:55%;
+ }
+ .divretour
+ {
+padding: 70px;
+font-size:1.3em;
+text-align:justify;
+position:absolute;
+left:209px;
+top:2400px;
+ }
+ .mesdes
+ {
+position:absolute;
+top:1000px;
+left:100px;
+ }
+ .mesbuf
+ {
+position:absolute;
+top:1100px;
+left:750px;
+ }
+ .messiJUV
+ {
+ position:absolute;
+top:1320px;
+left:100px;
+ }
+ .diva2
+{
+	word-wrap: break-word;
+ 	height:860px;
+ 	width:1222px;
+ 	position:relative;
+ 	top:3550px;
+ 	padding:70px;
+ 	font-size:1.3em;
+ }
+ .video2
+ {
+ 	height:550px;
+ 	width:550px;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divque
+{
+  
+   width:1265px;
+   height:11px;
+   position:absolute;
+   left:210px;
+   padding:50px;
+}
+
+.formques
+{
+	position:absolute;
+	top:350px;
+	left:130px;
+}
+
+.sectionquestio
+{
+	height:2530px;
+}
+
+.sub:hover
+{
+  background-color:blue;
+  color:red;
+}
+
+.res:hover
+{
+  background-color:blue;
+  color:red;
+}
+
+.sub
+{
+  color:red;
+  background-color:aqua;
+  font-family:impact;
+  border-radius:10px;
+  text-align:center;
+  height:28px;
+  box-shadow:2px 2px 2px white;
+}
+
+.res
+{
+  color:red;
+  background-color:aqua;
+  font-family:impact;
+  border-radius:10px;
+
+}
+
+.rep
+{
+ border:1px solid white;
+ width:100%;
+ height:80px;
+ font-size:1.2em;
+ color:red;
+ text-shadow:3px 3px 3px aqua;
+ font-family:"Comic Sans Ms";
+}
+
+ .reps
+ {
+ position:absolute; 
+ left:50px; 
+ top:50px; 
+ width:210px; 
+ height:80px;
+  font-size:1em;
+  font-weight:bold;
+  color:yellow;
+  border:1px solid white;
+ }
+
+ .repso
+ {
+ 	 position:absolute; 
+ left:260px; 
+ top:50px;   
+ height:80px;
+  font-size:1.1em;
+  color:red;
+   font-family:"Comic Sans Ms";
+   text-shadow:3px 3px 3px aqua;
+   width:1090px;
+    border:1px solid white;
+}
+ 
+ 
+ font-weight:bold; 
+}
+
+input[name]
+{
+	border-radius:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.calc
+{
+border:2px solid rgb(69,69,69);
+width:21%;
+height:410px;
+position:absolute;
+left: 644px;
+top:790px;
+border-radius:50px;	
+background-color:rgb(69,69,69);
+
+}
+ 
+
+
+
+
+
+
+
+
+form
+{
+position: absolute;
+top: 850px;
+left:670px
+}
+
+
+
+.casea1{position: absolute; left:0px; top:106px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.casea2{position: absolute; left:60px; top:106px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.casea3{position: absolute; left:120px; top:106px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.casea4{position: absolute; left:180px;	top:106px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.casea5{position: absolute; left: 240px;	top:106px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+
+.casea{position: absolute; left:0px; top:146px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.caseb{position: absolute; left:60px; top:146px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.casec{position: absolute; left:120px; top:146px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.cased{position: absolute; left:180px;	top:146px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.casee{position: absolute; left: 240px;	top:146px;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+
+.case1{position: absolute; left:0px; top:186px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case2{position: absolute; left:0px; top:226px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case3{position: absolute; left: 0px; top:266px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case4{position: absolute; left: 0px;	top:306px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case5{position: absolute; left: 60px; top:186px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case6{position: absolute; left:60px; top:226px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case7{position: absolute; left:60px; top:266px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case8{position: absolute; left:60px; top:306px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case9{position: absolute; left:120px; top:186px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case10{position: absolute; left:120px; top:226px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case11{position: absolute; left:120px; top:266px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case12{position: absolute; left:117px; top:306px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case13{position: absolute; left:179px; top:186px; background-color:red; font-size:1.2em; height:31px;color: white; border: 1px solid black; border-radius:10px;  width:45px; text-align:center;}
+.case14{position: absolute; left: 180px; top:226px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case15{position: absolute; left:180px; top:266px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case16{position: absolute; left:180px; top:306px; font-size:1.2em; height:31px;background-color: black;color: white; border: 1px solid black; border-radius:10px;  width:45px; text-align:center;}
+.case17{position: absolute; left:240px; top:186px; background-color:red; font-size:1.2em; height:31px;color: white; border: 1px solid black; border-radius:10px;  width:45px; text-align:center;}
+.case18{position: absolute; left:240px; top:226px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case19{position: absolute; left:240px; top:266px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+.case20{position: absolute; left:240px; top:306px;background-color: black;color: white; border: 1px solid black; border-radius:10px; font-size:1.4em; width:45px; text-align:center;}
+
+
+
+.secCal
+{
+height:1000px;
+width:200px;
+border:1px solid lime;
+background-color:rgb(147,0,0);
+float: left;
+display:inline-block;
+}
+
+.quart-retour
+{
+	padding: 70px;
+	font-size:1.3em;
+text-align:justify;
+position:absolute;
+left:209px;
+top:2400px;
+background-color:aqua;
+width:1222px;
+}
